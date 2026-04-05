@@ -1,6 +1,6 @@
 cask "cullsnap" do
-  version "2.14.7"
-  sha256 "aa273f5a0d7a525702c5b90c6cf8433630963b1436174f3cfe0acbd7d6f76baa"
+  version "2.14.8"
+  sha256 "4f239d582253fb5d60e03646dcba66230503b2cd108c79231ea4a874644342ce"
 
   url "https://github.com/Abhishekmitra-slg/CullSnap/releases/download/v#{version}/CullSnap-macos-universal.zip"
   name "CullSnap"
